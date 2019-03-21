@@ -1,0 +1,3 @@
+C:\_VCS\UE4 CPP\ue4_cpp\Ultimate\Source\Ultimate\Ultimate.Build.cs
+C:\_VCS\UE4 CPP\ue4_cpp\Ultimate\Source\Ultimate.Target.cs
+C:\_VCS\UE4 CPP\ue4_cpp\Ultimate\Source\UltimateEditor.Target.cs
